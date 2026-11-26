@@ -29,6 +29,6 @@ flutter build apk --release
 
 ## 下载
 
-[Releases](https://github.com/Pluto-Sky33/namebook/releases) 有各版本 APK。当前 v1.7.8。
+[Releases](https://github.com/Pluto-Sky23/namebook/releases) 有各版本 APK。当前 v1.7.8。
 
 升级版本需同步改 `pubspec.yaml` 的 `version` 和 `lib/pages/settings_page.dart` 的 `appVersion` 常量。
